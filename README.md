@@ -34,3 +34,11 @@ itself traveled over IPv6.
 ## Limitations
 This project examined one DNS exchange. It does not establish
 typical DNS performance or verify that the network is secure.
+
+## Evidence
+
+![DNS response showing two A records and response timing](dns-response.png)
+
+The original packet capture is retained locally because it
+
+contains network addresses. The screenshot is cropped for privacy.
